@@ -1,0 +1,2 @@
+# Future dependencies for Film Feedback AI
+    # Add your Python package requirements here
